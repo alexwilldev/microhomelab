@@ -1,5 +1,10 @@
 # microhomelab
 
+## TODO
+- [ ] flash rpi5
+- [ ] write startup tui animation
+- [ ] write main tui navigation page
+
 
 ## Prerequisites
 
